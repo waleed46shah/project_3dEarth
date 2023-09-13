@@ -13,6 +13,7 @@ export default function Home() {
   return (
     <SmoothScroll>
       <main className={styles.main}>
+        <h1>Scroll Down</h1>
         <Earth />
         <Projects/>
       </main>
