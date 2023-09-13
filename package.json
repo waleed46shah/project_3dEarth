@@ -9,8 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/fiber": "^8.14.1",
+    "@studio-freight/lenis": "^1.0.22",
+    "framer-motion": "^10.16.4",
+    "framer-motion-3d": "^10.16.4",
     "next": "13.4.19",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.66.1"
   }
 }
